@@ -1,0 +1,16 @@
+{
+  "VESSEL-VESSEL.aromaPrinciple": "Lore // TODO: fill",
+  "VESSEL-VESSEL.banter.alive.endTurnPing": "Co-op hurry up end turn ping message",
+  "VESSEL-VESSEL.banter.dead.endTurnPing": "...",
+  "VESSEL-VESSEL.cardsModifierDescription": "__ cards will now appear in rewards and shops.",
+  "VESSEL-VESSEL.cardsModifierTitle": "__ Cards",
+  "VESSEL-VESSEL.description": "Character Selection\nScreen Description",
+  "VESSEL-VESSEL.eventDeathPrevention": "Co-op survival line",
+  "VESSEL-VESSEL.goldMonologue": "Line spoken when obtaining a large amount of gold",
+  "VESSEL-VESSEL.possessiveAdjective": "his/her/its",
+  "VESSEL-VESSEL.pronounObject": "him/her/it",
+  "VESSEL-VESSEL.pronounPossessive": "his/hers/its",
+  "VESSEL-VESSEL.pronounSubject": "he/she/it",
+  "VESSEL-VESSEL.title": "The Vessel",
+  "VESSEL-VESSEL.titleObject": "The Vessel"
+}

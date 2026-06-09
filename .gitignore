@@ -1,0 +1,16 @@
+.godot/
+bin/
+obj/
+/android/
+.git/
+.idea/
+.vs/
+publish/
+Properties/
+packages/
+.editorconfig
+*.user
+Directory.Build.props
+
+riderModule.iml
+/_ReSharper.Caches/

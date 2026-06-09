@@ -65,6 +65,11 @@
         <Folder Include="Vessel\images\relics\big\"/>
     </ItemGroup>
 
+    <ItemGroup>
+      <Content Include="LICENSE" />
+      <Content Include="README.md" />
+    </ItemGroup>
+
     <Target Name="CheckDependencyPaths">
         <Error
                 Text=" Slay the Spire 2 data not found at path '$(Sts2DataDir)'"
